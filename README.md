@@ -35,7 +35,7 @@ As a last step command to the terminal:
 ```console
 nano .bashrc
 ```
-And add export 'LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"' as a last line. 
+And add export `LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"` as a last line. 
 
 ## Explaination 
 
